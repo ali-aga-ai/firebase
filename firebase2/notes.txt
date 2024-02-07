@@ -1,0 +1,12 @@
+i wanna create a very basic admin portal where the admin can add and remove some very basic details.
+firts i will allow him to add and remove tailorsm, then an options for projects associated with the tailors 
+
+if he wants to say item delivered he will have an option which will be a bsic popup where he can add the details of when delivered and stuff
+
+in this i will also understand how to create a good ui popup
+
+
+
+
+to do:
+hash password
